@@ -1,4 +1,4 @@
-# 🎧 focus-space
+# 🎧 Focus Space
 
 > **Enter deep work. Stay focused. Build momentum.**
 
